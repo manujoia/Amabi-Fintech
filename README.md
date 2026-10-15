@@ -1,6 +1,6 @@
 # Amabi Fintech
 
-Aplicação de gestão financeira pessoal desenvolvida em equipe como projeto acadêmico da FIAP (Análise e Desenvolvimento de Sistemas), com metodologia ágil. O projeto reúne levantamento de requisitos, prototipação de telas, modelagem de banco de dados e desenvolvimento do front-end e da camada de dados.
+Aplicação de gestão financeira pessoal desenvolvida como projeto acadêmico da FIAP (Análise e Desenvolvimento de Sistemas), com metodologia ágil. O projeto reúne levantamento de requisitos, prototipação de telas, modelagem de banco de dados e desenvolvimento do front-end e da camada de dados.
 
 ## Telas
 Protótipo no Figma e versão web com:
