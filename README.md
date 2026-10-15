@@ -44,4 +44,4 @@ banco-java/ camada de dados em Java (JDBC e DAO)
 ```
 
 ## Status
-Projeto acadêmico. [Preencher após revisar o código: o que está implementado e o que ficou só na documentação.]
+Projeto acadêmico 
